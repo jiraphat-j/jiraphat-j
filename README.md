@@ -44,6 +44,7 @@
 ![Nmap](https://img.shields.io/badge/Nmap-1A365D?style=flat-square)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Ghidra](https://img.shields.io/badge/Ghidra-B71C1C?style=flat-square&logoColor=white)
 ![tcpdump](https://img.shields.io/badge/tcpdump-263238?style=flat-square&logo=linux&logoColor=white)
 
 <p>
