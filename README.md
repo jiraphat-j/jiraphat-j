@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=2ECC71&center=true&vCenter=true&width=750&height=50&lines=System.init('jiraphat-j');;Initializing+Cybersecurity+Protocols...;;Analyzing+KMUTT+CPE+Core...;;Access+Granted." alt="Typing SVG" />
 </p>
 
-# 🛡️ JIRAPHAT-J // Hi, I'm Jiraphat (Ji)
+#  JIRAPHAT-J // Hi, I'm Jiraphat (Ji)
 
 ### 💻 Computer Engineering @ KMUTT
 
@@ -11,7 +11,7 @@
 
 ---
 
-## 🎯 Focus Areas
+##  Focus Areas
 
 ![Red Teaming](https://img.shields.io/badge/Red%20Teaming-DC2626?style=for-the-badge&logo=hackthebox&logoColor=white)
 ![AI Security](https://img.shields.io/badge/AI%20Security-7C3AED?style=for-the-badge&logo=openai&logoColor=white)
@@ -21,7 +21,7 @@
 
 ---
 
-## 🧑‍💻 Languages
+##  Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,c,cpp,bash&theme=dark" alt="Python, C, C++ and Bash" />
@@ -29,7 +29,7 @@
 
 ---
 
-## 🐧 Operating Systems
+##  Operating Systems
 
 <p>
   <img src="https://skillicons.dev/icons?i=arch,ubuntu,windows&theme=dark" alt="Arch Linux, Ubuntu and Windows" />
