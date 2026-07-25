@@ -1,3 +1,26 @@
+# JIRAPHAT-J // Hi, I'm Jiraphat (Ji)
+
+### 💻 Computer Engineering @ KMUTT
+
+> *Computer Engineering student interested in cybersecurity, AI security, and secure systems.*
+
+---
+
+## Focus Areas
+
+- Offensive Security
+- AI Security
+- Network and System Security
+- Capture The Flag
+
+<p>
+  <img
+    src="https://skillicons.dev/icons?i=arch"
+    alt="Arch Linux"
+  />
+</p>
+
+> *Build. Break. Learn. Repeat.*
 <!-- ASCII Portrait -->
 <div align="center">
 <pre align="center">
@@ -41,27 +64,3 @@
     alt="Typing SVG"
   />
 </p>
-
-# JIRAPHAT-J // Hi, I'm Jiraphat (Ji)
-
-### 💻 Computer Engineering @ KMUTT
-
-> *Computer Engineering student interested in cybersecurity, AI security, and secure systems.*
-
----
-
-## Focus Areas
-
-- Offensive Security
-- AI Security
-- Network and System Security
-- Capture The Flag
-
-<p>
-  <img
-    src="https://skillicons.dev/icons?i=arch"
-    alt="Arch Linux"
-  />
-</p>
-
-> *Build. Break. Learn. Repeat.*
