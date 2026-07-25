@@ -19,7 +19,6 @@
 ![System Security](https://img.shields.io/badge/System%20Security-374151?style=for-the-badge&logo=linux&logoColor=white)
 ![CTF](https://img.shields.io/badge/CTF-111827?style=for-the-badge&logo=tryhackme&logoColor=white)
 
----
 
 ##  Languages
 
@@ -27,7 +26,6 @@
   <img src="https://skillicons.dev/icons?i=python,c,cpp,bash&theme=dark" alt="Python, C, C++ and Bash" />
 </p>
 
----
 
 ##  Operating Systems
 
@@ -35,7 +33,6 @@
   <img src="https://skillicons.dev/icons?i=arch,ubuntu,windows&theme=dark" alt="Arch Linux, Ubuntu and Windows" />
 </p>
 
----
 
 ## ⚙️ Environment & Tools
 
