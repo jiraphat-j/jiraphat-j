@@ -60,7 +60,7 @@
 <!-- Animated Matrix/Terminal Header -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=2ECC71&center=true&vCenter=true&width=750&height=50&lines=System.init('jiraphat-j');;Initializing+Cybersecurity+Protocols...;;Analyzing+KMUTT+CPE+Core...;;Access+Granted."
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=2ECC71&center=true&vCenter=true&width=750&height=50&lines=I+Am+The+Root...;;Scanning+The+Network...;;Compiling+My+Last+Braincell...;;Permission+Denied."
     alt="Typing SVG"
   />
 </p>
