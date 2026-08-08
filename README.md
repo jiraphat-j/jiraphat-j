@@ -15,8 +15,8 @@
 
 <p>
   <img
-    src="https://skillicons.dev/icons?i=arch, ubuntu"
-    alt="Arch , Ubuntu"
+    src="https://skillicons.dev/icons?i=linux"
+    alt="linux"
   />
 </p>
 
