@@ -12,6 +12,7 @@
 - AI Security
 - Network and System Security
 - Capture The Flag
+- Cloud Security
 
 <p>
   <img
