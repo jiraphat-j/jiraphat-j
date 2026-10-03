@@ -7,8 +7,8 @@
 ---
 
 ## Focus Areas
-
-- Offensive Security
+- Forensics
+- Offensive Security 
 - AI Security
 - Network and System Security
 - Capture The Flag
